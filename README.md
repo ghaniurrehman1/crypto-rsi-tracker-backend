@@ -58,7 +58,6 @@ crypto-backend/
 │
 ├── package.json
 ├── package-lock.json
-├── .gitignore
 └── README.md
 ```
 
